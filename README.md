@@ -5,9 +5,8 @@ This project detects brain tumors from MRI images using machine learning. Users 
 
 ## 🚀 Features
 - Detects brain tumors from MRI images
-- User-friendly interface using Streamlit/Flask
+- User-friendly interface using Streamlit
 - Pre-trained CNN model for accurate predictions
-- Supports multiple MRI image formats
 
 ## 📂 Repository Structure
 - `app.py` → Main application script
